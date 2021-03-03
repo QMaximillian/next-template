@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "cssnano": "^4.1.10",
     "next": "10.0.7",
     "react": "17.0.1",
     "react-dom": "17.0.1"
